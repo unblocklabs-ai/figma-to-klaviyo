@@ -1,0 +1,8 @@
+{
+  "font_map": {
+    "Arial": {"stack": "Arial, Helvetica, sans-serif", "klaviyo_family": "Arial"},
+    "Display Serif VF": {"stack": "Georgia, serif", "klaviyo_family": "Display Serif"},
+    "Display Serif": {"stack": "Georgia, serif", "klaviyo_family": "Display Serif"},
+    "Body Serif VF": {"stack": "Georgia, serif", "klaviyo_family": "Body Serif"}
+  }
+}
